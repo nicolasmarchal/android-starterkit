@@ -1,5 +1,5 @@
-# android-starterkit
-android kotlint starterkit with CI
+# android-starterkit MVVM
+android kotlin MVVM starterkit with CI
 
 ## STACK
 #### KOTLIN
